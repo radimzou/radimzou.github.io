@@ -1,117 +1,136 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    background: #c43535;
+    background-color: rgb(221, 206, 158);
     font-family: 'Courier New', Courier, monospace;
-    margin: auto;
-    max-width: 960px;
+    width: 960px;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
 }
 
-.wrapper {
-    background-color: #9e8585;
-    padding: 32px;
+.header {
+    background-color: rgb(101, 164, 61);
 }
 
-nav {
-    background-color: rgb(64, 21, 21);
-    color: #111b15;
-    padding: 4px;
-    font-size: 16px;
-    margin-top: 0px;
+.header-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 20px;
+    position: fixed;
+    width: 960px;
+    border-start-start-radius: 8px;
+    border-start-end-radius: 8px;
 }
 
-nav li {
+.header-menu img {
+    width: 56px;
+    border-radius: 50%;
+}
+
+.header-menu-left {
+    display: flex;
+    padding-left: 8px;
+    
+}
+
+.header-menu-right {
+    width: 56px;
+    text-decoration: none;
+}
+
+.header-menu-center a {
+    float: left;
+    text-decoration: none;
+    color:white;
     font-weight: 400;
+    text-align: center;
     padding: 16px;
 }
 
-nav li:hover {
-    background-color: #ffffff;
+.header-menu-center a.active {
+    background-color: rgb(101, 164, 61);
+    color:  black
 }
 
-.header_menu {
-    text-align: center;
+.header-menu-center a:hover {
+    color: rgb(0, 0, 0);
+    background-color:  rgb(101, 164, 61);
 }
 
-.header_menu li {
-    display: inline;
-    padding: 8px 8px 8px 8px;
-    margin: 0 24px;
+.header-menu-center a:active {
+    background-color: rgb(147, 199, 115);
+    color:  black
 }
 
-.rounded-border {
-    border:2px #cdb7b7 solid;
-    border-radius: 4px;
+.header .header-title {
+    padding-top: 72px;
+    padding-left: 16px;
+    padding-bottom: 16px;
+    
 }
 
-.header_menu a:link, a:visited {
-    color: #ffffff;
-    text-decoration: none;
+.header,.header-title {
+    border-radius: 8px;
 }
 
-.header_menu a:hover {
-    color: #c51a1a;
-    text-decoration: none;
+.header-menu-layout {
+    position: absolute;
+    width: 960px;
+    height: 10px;
+    background-color: rgb(221, 206, 158);
+    top: 0px;
 }
 
-.header_menu a:active {
-    color: #0c0505;
-    text-decoration: none;
-    background-color: #dfe2aa;
+main {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.top-article {
+    background-color: rgb(223, 145, 77);
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    border-radius: 8px;
+
+}
+
+.top-article-title {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 32px;
+    padding-top: 32px;
+
+}
+
+.top-article-perex {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 0.8;
+
+}
+
+.top-article img {
+    width: 100%
 }
 
 .footer {
-    position: absolute;
-    bottom: 0;
-    display: inline;
-    margin: auto;
+    width: 100%;
+    background-color: rgb(49, 35, 35);
+    color: rgb(151, 143, 143);
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 0;
+    padding: 4px;
+    border-start-start-radius: 8px;
+    border-start-end-radius: 8px;
 }
 
-.parent {
-    background-color: #dfe2aa;
-    margin: 10px;
-    font-size: 24px;
-    padding: 12px;
-}
-
-.one {
-    background: green;
-    width: 300px;
-    height: 100px;
-    margin: none;
-    box-sizing: border-box;
-}
-
-.two {
-    background-color: hwb(232 31% 26%);
-    border: rgb(31, 18, 87) 4px;
-    border-left: solid;
-    font-size: 18px;
-    margin: 24px;
-}
-
-.three {
-    background-color: blue;
-    width: initial;
-    box-sizing: border-box;
-}
-
-.text {
-    color:rgb(64, 21, 21);
-    font-size: 16px;
-    margin-top: 18px;
-    text-align: justify;
-    text-indent: 24px;
-    line-height: 1.5;
-    word-spacing: 4px;
-    text-shadow: 2px 2px 5px rgb(103, 96, 96);
-
-}
-
-.letter {
+.footer-release-year {
     font-size: 12px;
-    text-decoration-line: overline;
-    text-decoration-color: red;
-}
-
-.one, .two, .three {
-    padding: 10px;
 }
