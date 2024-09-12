@@ -1,21 +1,97 @@
 <SHOP>
 <SHOPITEM>
-<ITEM_ID>144674</ITEM_ID>
-<PRODUCTNAME>Plastelina</PRODUCTNAME>
-<PRODUCT>Plastelina</PRODUCT>
-<URL>https://www.melvil.cz/nula/</URL>
-<IMGURL>https://www.melvil.cz/wp-content/uploads/2024/02/skryty_potencial-2D.webp</IMGURL>
-<PRICE>500.65</PRICE>
-<PRICE_VAT>500.65</PRICE_VAT>
+<ITEM_ID>154720</ITEM_ID>
+<PRODUCTNAME>Už žádné drama</PRODUCTNAME>
+<PRODUCT>Už žádné drama</PRODUCT>
+<URL>https://www.melvil.cz/kniha-uz-zadne-drama-e/</URL>
+<IMGURL>https://www.melvil.cz/wp-content/uploads/2024/08/Uz-zadne-drama_obalka_2D-nova.webp</IMGURL>
+<PRICE>280</PRICE>
+<PRICE_VAT>280</PRICE_VAT>
+<MANUFACTURER>Jan Melvil Publishing</MANUFACTURER>
+<CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | E-book elektronické knihy</CATEGORYTEXT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<EAN>9788075552228</EAN>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>149976</ITEM_ID>
+<PRODUCTNAME>Už žádné drama Nedra Glover Tawwab</PRODUCTNAME>
+<PRODUCT>Už žádné drama</PRODUCT>
+<URL>https://www.melvil.cz/kniha-uz-zadne-drama/</URL>
+<IMGURL>https://www.melvil.cz/wp-content/uploads/2024/08/Uz-zadne-drama_obalka_2D-nova.webp</IMGURL>
+<PRICE>339.15</PRICE>
+<PRICE_VAT>339.15</PRICE_VAT>
 <MANUFACTURER>Jan Melvil Publishing</MANUFACTURER>
 <CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | Knihy</CATEGORYTEXT>
 <DELIVERY_DATE>0</DELIVERY_DATE>
-<EAN>9788075552128</EAN>
+<EAN>9788075552228</EAN>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>151713</ITEM_ID>
+<PRODUCTNAME>Ultrazpracovaní lidé</PRODUCTNAME>
+<PRODUCT>Ultrazpracovaní lidé</PRODUCT>
+<URL>https://www.melvil.cz/kniha-ultrazpracovani-lide-e/</URL>
+<IMGURL>https://www.melvil.cz/wp-content/uploads/2024/04/ultrazpracovani-lide.webp</IMGURL>
+<PRICE>349</PRICE>
+<PRICE_VAT>349</PRICE_VAT>
+<MANUFACTURER>Jan Melvil Publishing</MANUFACTURER>
+<CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | E-book elektronické knihy</CATEGORYTEXT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<EAN>9788075552167</EAN>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>148325</ITEM_ID>
+<PRODUCTNAME>Ultrazpracovaní lidé Chris van Tulleken</PRODUCTNAME>
+<PRODUCT>Ultrazpracovaní lidé</PRODUCT>
+<URL>https://www.melvil.cz/kniha-ultrazpracovani-lide/</URL>
+<IMGURL>https://www.melvil.cz/wp-content/uploads/2024/04/ultrazpracovani-lide.webp</IMGURL>
+<PRICE>398.65</PRICE>
+<PRICE_VAT>398.65</PRICE_VAT>
+<MANUFACTURER>Jan Melvil Publishing</MANUFACTURER>
+<CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | Knihy</CATEGORYTEXT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<EAN>9788075552167</EAN>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>150551</ITEM_ID>
+<PRODUCTNAME>Sladkobol</PRODUCTNAME>
+<PRODUCT>Sladkobol</PRODUCT>
+<URL>https://www.melvil.cz/kniha-sladkobol-e/</URL>
+<IMGURL>https://www.melvil.cz/wp-content/uploads/2024/05/Sladkobol_obalka_2D.webp</IMGURL>
+<PRICE>280</PRICE>
+<PRICE_VAT>280</PRICE_VAT>
+<MANUFACTURER>Jan Melvil Publishing</MANUFACTURER>
+<CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | E-book elektronické knihy</CATEGORYTEXT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>145188</ITEM_ID>
+<PRODUCTNAME>Sladkobol Susan Cain</PRODUCTNAME>
+<PRODUCT>Sladkobol</PRODUCT>
+<URL>https://www.melvil.cz/kniha-sladkobol/</URL>
+<IMGURL>https://www.melvil.cz/wp-content/uploads/2024/05/Sladkobol_obalka_2D.webp</IMGURL>
+<PRICE>339.15</PRICE>
+<PRICE_VAT>339.15</PRICE_VAT>
+<MANUFACTURER>Jan Melvil Publishing</MANUFACTURER>
+<CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | Knihy</CATEGORYTEXT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>150190</ITEM_ID>
+<PRODUCTNAME>Skrytý potenciál</PRODUCTNAME>
+<PRODUCT>Skrytý potenciál</PRODUCT>
+<URL>https://www.melvil.cz/kniha-skryty-potencial-e/</URL>
+<IMGURL>https://www.melvil.cz/wp-content/uploads/2024/02/skryty_potencial-2D.webp</IMGURL>
+<PRICE>319</PRICE>
+<PRICE_VAT>319</PRICE_VAT>
+<MANUFACTURER>Jan Melvil Publishing</MANUFACTURER>
+<CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | E-book elektronické knihy</CATEGORYTEXT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<EAN>9788075552129</EAN>
 </SHOPITEM>
 <SHOPITEM>
 <ITEM_ID>144675</ITEM_ID>
-<PRODUCTNAME>Guma</PRODUCTNAME>
-<PRODUCT>Guma</PRODUCT>
+<PRODUCTNAME>Skrytý potenciál Adam Grant</PRODUCTNAME>
+<PRODUCT>Skrytý potenciál</PRODUCT>
 <URL>https://www.melvil.cz/kniha-skryty-potencial/</URL>
 <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/02/skryty_potencial-2D.webp</IMGURL>
 <PRICE>381.65</PRICE>
@@ -167,5 +243,47 @@
 <CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | E-book elektronické knihy</CATEGORYTEXT>
 <DELIVERY_DATE>0</DELIVERY_DATE>
 <EAN>9788075552006</EAN>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>133496</ITEM_ID>
+<PRODUCTNAME>Vitamín L John Gottman</PRODUCTNAME>
+<PRODUCT>Vitamín L</PRODUCT>
+<DESCRIPTION>
+<![CDATA[ <strong>&gt;&gt;</strong> <strong>New York Times Bestseller</strong> <strong>&lt;&lt;</strong> <strong> </strong><em>Neexistuje žádné manželství nebo partnerství, které by z této knihy nemělo prospěch</em>.“ — New York Journal of Books. <strong>Co dělá lásku trvalou?</strong> Proč jeden pár spolu zůstane navždy, zatímco jiný se brzy rozejde? Existuje nějaký ověřený vzorec nebo snad zázračná pilulka, která vám pomůže vztah udržet? Světově uznávaní vědci a kliničtí psychologové John a Julie Gottmanovi zasvětili svou kariéru právě těmto otázkám. Místo filozofických úvah se však uchýlili k datům, jež za posledních čtyřicet let nashromáždili od více než třech tisíců párů. Mimo jiné zkoumali řeč jejich těla, způsob, jakým spolu mluví, nebo dokonce hladiny stresových hormonů v těle. To vše s jediným cílem – identifikovat základní stavební kameny lásky. Svoji celoživotní práci a zjištění nyní přetavili do sedmidenního akčního plánu s jednoduchými a okamžitě aplikovatelnými kroky. Nejsou potřeba žádná velká gesta, náročné rozhovory nebo honosné dary, pouze následovat soubor důležitých maličkostí, které vám pomůžou zlepšit vaše soužití, ať už potřebujete řešit náhlou partnerskou krizi, oživit desítky let trvající manželství nebo jen podpořit nový vztah. Vitamin L je receptem na lásku, který vám pomůže zaměřit se na to nejpodstatnější. Vědecký vzorec pro dlouhodobý vztah totiž existuje a vy zjistíte, že už pár malých návyků jej může zásadně změnit k lepšímu. <h3>O autorech:</h3> <strong>John M. Gottman</strong> (* 1942) je emeritním profesorem psychologie na Washingtonské univerzitě a jedním z nejcitovanějších odborníků v oblasti rodiny a manželství na světě. Za svoji práci obdržel řadu prestižních ocenění. Časopis Psychotherapy Networker jej označil za jednoho z deseti nejvlivnějších psychoterapeutů. <strong>Julie Schwartz Gottman</strong> (* 1951) je spolutvůrkyní populárního workshopu The Art and Science of Love a sama byla v roce 2021 vyhlášena psycholožkou roku ve státě Washington. Psychotherapy Networker jí udělil cenu za celoživotní přínos. Manželé společně žijí na ostrově Orcas v USA. ]]>
+</DESCRIPTION>
+<URL>https://www.melvil.cz/kniha-vitamin-l/</URL>
+<IMGURL>https://www.melvil.cz/wp-content/uploads/2023/10/Vitamin-L-2D.webp</IMGURL>
+<PRICE>339.15</PRICE>
+<PRICE_VAT>339.15</PRICE_VAT>
+<MANUFACTURER>Jan Melvil Publishing</MANUFACTURER>
+<CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | Knihy</CATEGORYTEXT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<EAN>9788075552006</EAN>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>136167</ITEM_ID>
+<PRODUCTNAME>Sport je bolest</PRODUCTNAME>
+<PRODUCT>Sport je bolest</PRODUCT>
+<URL>https://www.melvil.cz/kniha-sport-je-bolest-e/</URL>
+<IMGURL>https://www.melvil.cz/wp-content/uploads/2023/07/Sport-je-bolest-cover.webp</IMGURL>
+<PRICE>349</PRICE>
+<PRICE_VAT>349</PRICE_VAT>
+<MANUFACTURER>Jan Melvil Publishing</MANUFACTURER>
+<CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | E-book elektronické knihy</CATEGORYTEXT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<EAN>9788075552020</EAN>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>129793</ITEM_ID>
+<PRODUCTNAME>Sport je bolest Michal Novotný</PRODUCTNAME>
+<PRODUCT>Sport je bolest</PRODUCT>
+<URL>https://www.melvil.cz/kniha-sport-je-bolest/</URL>
+<IMGURL>https://www.melvil.cz/wp-content/uploads/2023/07/Sport-je-bolest-cover.webp</IMGURL>
+<PRICE>398.65</PRICE>
+<PRICE_VAT>398.65</PRICE_VAT>
+<MANUFACTURER>Jan Melvil Publishing</MANUFACTURER>
+<CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | Knihy</CATEGORYTEXT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<EAN>9788075552020</EAN>
 </SHOPITEM>
 </SHOP>
