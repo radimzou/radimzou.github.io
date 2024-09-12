@@ -1,8 +1,8 @@
 <SHOP>
 <SHOPITEM>
 <ITEM_ID>144674</ITEM_ID>
-<PRODUCTNAME>INVALID_PRODUCT_TO_FAIL</PRODUCTNAME>
-<PRODUCT>INVALID_PRODUCT_TO_FAIL</PRODUCT>
+<PRODUCTNAME>Plastelina</PRODUCTNAME>
+<PRODUCT>Plastelina</PRODUCT>
 <URL>https://www.melvil.cz/nula/</URL>
 <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/02/skryty_potencial-2D.webp</IMGURL>
 <PRICE>500.65</PRICE>
@@ -14,8 +14,8 @@
 </SHOPITEM>
 <SHOPITEM>
 <ITEM_ID>144675</ITEM_ID>
-<PRODUCTNAME>INVALID_PRODUCT_TO_FAIL</PRODUCTNAME>
-<PRODUCT>INVALID_PRODUCT_TO_FAIL</PRODUCT>
+<PRODUCTNAME>Guma</PRODUCTNAME>
+<PRODUCT>Guma</PRODUCT>
 <URL>https://www.melvil.cz/kniha-skryty-potencial/</URL>
 <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/02/skryty_potencial-2D.webp</IMGURL>
 <PRICE>381.65</PRICE>
