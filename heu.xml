@@ -1,8 +1,8 @@
 <SHOP>
 <SHOPITEM>
 <ITEM_ID>151111</ITEM_ID>
-<PRODUCTNAME>Už žádné drama</PRODUCTNAME>
-<PRODUCT>Už žádné drama</PRODUCT>
+<PRODUCTNAME>INVALID_PRODUCT_TO_FAIL</PRODUCTNAME>
+<PRODUCT>INVALID_PRODUCT_TO_FAIL</PRODUCT>
 <URL>https://www.melvil.cz/uz-zadne-drama-e/</URL>
 <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/04/uz-zadne-drama.webp</IMGURL>
 <PRICE>349</PRICE>
