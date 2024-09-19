@@ -14,8 +14,8 @@
 </SHOPITEM>
 <SHOPITEM>
 <ITEM_ID>151713</ITEM_ID>
-<PRODUCTNAME>Ultrazpracovaní lidé</PRODUCTNAME>
-<PRODUCT>Ultrazpracovaní lidé</PRODUCT>
+<PRODUCTNAME>INVALID_PRODUCT_TO_FAIL1</PRODUCTNAME>
+<PRODUCT>INVALID_PRODUCT_TO_FAIL1</PRODUCT>
 <URL>https://www.melvil.cz/kniha-ultrazpracovani-lide-e/</URL>
 <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/04/ultrazpracovani-lide.webp</IMGURL>
 <PRICE>349</PRICE>
@@ -27,8 +27,8 @@
 </SHOPITEM>
 <SHOPITEM>
 <ITEM_ID>148325</ITEM_ID>
-<PRODUCTNAME>Ultrazpracovaní lidé</PRODUCTNAME>
-<PRODUCT>Ultrazpracovaní lidé</PRODUCT>
+<PRODUCTNAME>INVALID_PRODUCT_TO_FAIL2</PRODUCTNAME>
+<PRODUCT>INVALID_PRODUCT_TO_FAIL2</PRODUCT>
 <URL>https://www.melvil.cz/kniha-ultrazpracovani-lide/</URL>
 <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/04/ultrazpracovani-lide.webp</IMGURL>
 <PRICE>398.65</PRICE>
