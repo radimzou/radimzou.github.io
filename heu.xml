@@ -1,8 +1,21 @@
 <SHOP>
 <SHOPITEM>
+<ITEM_ID>151111</ITEM_ID>
+<PRODUCTNAME>Už žádné drama</PRODUCTNAME>
+<PRODUCT>Už žádné drama</PRODUCT>
+<URL>https://www.melvil.cz/uz-zadne-drama-e/</URL>
+<IMGURL>https://www.melvil.cz/wp-content/uploads/2024/04/uz-zadne-drama.webp</IMGURL>
+<PRICE>349</PRICE>
+<PRICE_VAT>349</PRICE_VAT>
+<MANUFACTURER>Jan Melvil Publishing</MANUFACTURER>
+<CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | E-book elektronické knihy</CATEGORYTEXT>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<EAN>111075552167</EAN>
+</SHOPITEM>
+<SHOPITEM>
 <ITEM_ID>151713</ITEM_ID>
-<PRODUCTNAME>INVALID_PRODUCT_TO_FAIL</PRODUCTNAME>
-<PRODUCT>INVALID_PRODUCT_TO_FAIL</PRODUCT>
+<PRODUCTNAME>Ultrazpracovaní lidé</PRODUCTNAME>
+<PRODUCT>Ultrazpracovaní lidé</PRODUCT>
 <URL>https://www.melvil.cz/kniha-ultrazpracovani-lide-e/</URL>
 <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/04/ultrazpracovani-lide.webp</IMGURL>
 <PRICE>349</PRICE>
