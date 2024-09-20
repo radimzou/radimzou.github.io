@@ -57,7 +57,7 @@
 <SHOPITEM>
 <ITEM_ID>150551</ITEM_ID>
 <PRODUCTNAME>Sladkobol</PRODUCTNAME>
-<PRODUCT>INVALID_PRODUCT_TO_FAIL5</PRODUCT>
+<PRODUCT>Sladkobol</PRODUCT>
 <URL>https://www.melvil.cz/kniha-sladkobol-e/</URL>
 <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/05/Sladkobol_obalka_2D.webp</IMGURL>
 <PRICE>280</PRICE>
@@ -69,7 +69,7 @@
 <SHOPITEM>
 <ITEM_ID>145188</ITEM_ID>
 <PRODUCTNAME>Sladkobol</PRODUCTNAME>
-<PRODUCT>INVALID_PRODUCT_TO_FAIL6</PRODUCT>
+<PRODUCT>Sladkobol</PRODUCT>
 <URL>https://www.melvil.cz/kniha-sladkobol/</URL>
 <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/05/Sladkobol_obalka_2D.webp</IMGURL>
 <PRICE>339.15</PRICE>
