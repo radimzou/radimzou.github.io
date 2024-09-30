@@ -2,7 +2,7 @@
 <SHOPITEM>
 <ITEM_ID>154720</ITEM_ID>
 <PRODUCTNAME>Už žádné drama</PRODUCTNAME>
-<PRODUCT>Už žádné drama</PRODUCT>
+<PRODUCT>INVALID_PRODUCT_TO_FAIL1</PRODUCT>
 <URL>https://www.melvil.cz/kniha-uz-zadne-drama-e/</URL>
 <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/08/Uz-zadne-drama_obalka_2D-nova.webp</IMGURL>
 <PRICE>280</PRICE>
@@ -15,7 +15,7 @@
 <SHOPITEM>
 <ITEM_ID>151713</ITEM_ID>
 <PRODUCTNAME>Ultrazpracovaní lidé</PRODUCTNAME>
-<PRODUCT>Ultrazpracovaní lidé</PRODUCT>
+<PRODUCT>INVALID_PRODUCT_TO_FAIL2</PRODUCT>
 <URL>https://www.melvil.cz/kniha-ultrazpracovani-lide-e/</URL>
 <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/04/ultrazpracovani-lide.webp</IMGURL>
 <PRICE>349</PRICE>
