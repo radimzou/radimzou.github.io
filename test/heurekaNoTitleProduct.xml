@@ -2,7 +2,6 @@
 <SHOP>
  <SHOPITEM>
   <ITEM_ID>154840</ITEM_ID>
-  <PRODUCTNAME>Proč sníme Rahul Jandial</PRODUCTNAME>
   <DESCRIPTION><![CDATA[<!-- wp:uagb/container {"block_id":"071449d9","innerContentCustomWidthDesktop":1200,"directionDesktop":"row","backgroundType":"color","backgroundColor":"rgba(49,53,66,0.07)","topPaddingDesktop":64,"bottomPaddingDesktop":64,"leftPaddingDesktop":48,"rightPaddingDesktop":48,"topPaddingTablet":48,"bottomPaddingTablet":48,"leftPaddingTablet":48,"rightPaddingTablet":48,"topPaddingMobile":24,"bottomPaddingMobile":24,"leftPaddingMobile":24,"rightPaddingMobile":24,"variationSelected":true,"isBlockRootParent":true,"className":"page-wrapper"} -->
 <div class="wp-block-uagb-container page-wrapper uagb-block-071449d9 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap"><!-- wp:uagb/container {"block_id":"bac71e0d"} -->
 <div class="wp-block-uagb-container uagb-block-bac71e0d"><!-- wp:uagb/advanced-heading {"block_id":"5a4f5979","classMigrate":true,"blockBackground":"","headingDescToggle":false,"headingColor":"","headingTag":"h1","className":"has-85-59-55-font-size"} -->
@@ -170,8 +169,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>158032</ITEM_ID>
-  <PRODUCTNAME>Váš kapesní terapeut</PRODUCTNAME>
-
      <URL>https://www.melvil.cz/kniha-vas-kapesni-terapeut-a/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/11/kapesniterapeut_audio_cover_v3.webp</IMGURL>
   <PRICE>399</PRICE>
@@ -182,7 +179,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>158008</ITEM_ID>
-  <PRODUCTNAME>Krvavý úterek</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-krvavy-uterek-2/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/07/Krvavy-uterek_2D.webp</IMGURL>
   <PRICE>299</PRICE>
@@ -193,7 +189,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>157732</ITEM_ID>
-  <PRODUCTNAME>Není to konec světa</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-neni-to-konec-sveta-e/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/08/Neni-to-konec-sveta-promo-2D.webp</IMGURL>
   <PRICE>271</PRICE><PRICE_VAT>271</PRICE_VAT>
@@ -203,7 +198,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>157542</ITEM_ID>
-  <PRODUCTNAME>Let your English September</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-let-your-english-september-ae/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2023/05/Let_Your_English_2D.webp</IMGURL>
   <PRICE>537.6</PRICE>
@@ -214,7 +208,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>157130</ITEM_ID>
-  <PRODUCTNAME>Ultrazpracovaní lidé</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-ultrazpracovani-lide-pae/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/04/ultrazpracovani-lide.webp</IMGURL>
   <PRICE>772.2</PRICE>
@@ -225,7 +218,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>156818</ITEM_ID>
-  <PRODUCTNAME>Wager</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-wager-e/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/10/Wager_prebal_2D.webp</IMGURL>
   <PRICE>340</PRICE>
@@ -236,7 +228,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>155108</ITEM_ID>
-  <PRODUCTNAME>Sladkobol</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-sladkobol-pae/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/05/Sladkobol_obalka_2D.webp</IMGURL>
   <PRICE>646.8</PRICE>
@@ -247,7 +238,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>153162</ITEM_ID>
-  <PRODUCTNAME>Autismus bez masky</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-autismus-bez-masky-ea/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2023/12/Autismus-bez-masky_obalka_2D.webp</IMGURL>
   <PRICE>502.6</PRICE>
@@ -258,7 +248,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>152898</ITEM_ID>
-  <PRODUCTNAME>Skrytý potenciál</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-skryty-potencial-pae/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/02/skryty_potencial-2D.webp</IMGURL>
   <PRICE>700.2</PRICE>
@@ -269,7 +258,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>149574</ITEM_ID>
-  <PRODUCTNAME>30 hodin</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-30-hodin-pe/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/03/30-hodin.webp</IMGURL>
   <PRICE>579.6</PRICE>
@@ -280,7 +268,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>148726</ITEM_ID>
-  <PRODUCTNAME>Vitamín L</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-vitamin-l-pae/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2023/10/Vitamin-L-2D.webp</IMGURL>
   <PRICE>543.5</PRICE>
@@ -291,7 +278,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>147728</ITEM_ID>
-  <PRODUCTNAME>Stvorení pre pohyb (SK) Juliet Starrett</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-stvoreni-pre-pohyb/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/04/stvoreni-k-pohybu-obalka-SK-2D.webp</IMGURL>
   <PRICE>429</PRICE>
@@ -302,7 +288,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>148256</ITEM_ID>
-  <PRODUCTNAME>Zhluboka se nadechni</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-zhluboka-se-nadechni-pae/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2023/11/Zhluboka-se-nadechni_obalka_2D.webp</IMGURL>
   <PRICE>652.2</PRICE>
@@ -313,7 +298,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>146798</ITEM_ID>
-  <PRODUCTNAME>Přežít</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-prezit-pae/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2023/08/Prezit_2D.webp</IMGURL>
   <PRICE>922.2</PRICE>
@@ -324,7 +308,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>145243</ITEM_ID>
-  <PRODUCTNAME>Sport je bolest</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-sport-je-bolest-pea/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2023/07/Sport-je-bolest-cover.webp</IMGURL>
   <PRICE>772.2</PRICE>
@@ -335,7 +318,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>143556</ITEM_ID>
-  <PRODUCTNAME>Úsvit všeho</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-usvit-vseho-ekniha/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2023/11/Usvit-vseho_prebal_2D.webp</IMGURL>
   <PRICE>499</PRICE>
@@ -346,7 +328,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>138979</ITEM_ID>
-  <PRODUCTNAME>Šťastnější</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-stastnejsi-pae/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2023/10/proste_stastnejsi_2D.webp</IMGURL>
   <PRICE>646.8</PRICE>
@@ -357,7 +338,6 @@
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>120937</ITEM_ID>
-  <PRODUCTNAME>Zázračná imunita Matt Richtel</PRODUCTNAME>
   <DESCRIPTION>
    <![CDATA[<div><em>„Uvede vás do všech souvislostí potřebných k tomu, abyste porozuměli vědě o imunitě… Kniha ve mně zanechala pocit úžasu.“</em></div>
 <div>–      <strong>Bill Gates</strong></div>
@@ -409,7 +389,6 @@ V podání Matta Richtela je imunologie skutečně fascinující obor. Na zákla
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>124219</ITEM_ID>
-  <PRODUCTNAME>Nové zbraně vlivu</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-nove-zbrane-vlivu-pe/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2023/02/Zbrane-vlivu-2D-1.jpg</IMGURL>
   <PRICE>684.6</PRICE>
@@ -420,7 +399,6 @@ V podání Matta Richtela je imunologie skutečně fascinující obor. Na zákla
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>123402</ITEM_ID>
-  <PRODUCTNAME>Mýty a naděje digitálního světa</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-myty-a-nadeje-digitalniho-sveta-pae/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2022/10/Myty-a-nadeje_2D-1.jpg</IMGURL>
   <PRICE>578.5</PRICE>
@@ -431,7 +409,6 @@ V podání Matta Richtela je imunologie skutečně fascinující obor. Na zákla
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>122886</ITEM_ID>
-  <PRODUCTNAME>Cirkadiánní kód proti cukrovce</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-cirkadianni-kod-proti-cukrovce-pae/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2022/09/cirkakod.jpg</IMGURL>
   <PRICE>736.2</PRICE>
@@ -442,7 +419,6 @@ V podání Matta Richtela je imunologie skutečně fascinující obor. Na zákla
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>122874</ITEM_ID>
-  <PRODUCTNAME>Geniální potraviny</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-genialni-potraviny-pe/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2023/01/Genialni-potraviny_obalka_2D-2.jpg</IMGURL>
   <PRICE>479.008264</PRICE>
@@ -453,7 +429,6 @@ V podání Matta Richtela je imunologie skutečně fascinující obor. Na zákla
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>121412</ITEM_ID>
-  <PRODUCTNAME>Neštěkej na svého psa</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-nestekej-na-sveho-psa-pae/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2022/08/Nestekej-na-sveho-psa_Tomas_3-1.jpg</IMGURL>
   <PRICE>616.2</PRICE>
@@ -464,7 +439,6 @@ V podání Matta Richtela je imunologie skutečně fascinující obor. Na zákla
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>121035</ITEM_ID>
-  <PRODUCTNAME>Manifest menopauzy</PRODUCTNAME>
   <URL>https://www.melvil.cz/kniha-manifest-menopauzy-pa/</URL>
   <IMGURL>https://www.melvil.cz/wp-content/uploads/2022/08/manifest-menopauzy-obalka-2D-1.jpg</IMGURL>
   <PRICE>733.6</PRICE>
@@ -475,7 +449,6 @@ V podání Matta Richtela je imunologie skutečně fascinující obor. Na zákla
  </SHOPITEM>
  <SHOPITEM>
   <ITEM_ID>117348</ITEM_ID>
-  <PRODUCTNAME>Zrození Evropanů</PRODUCTNAME>
   <DESCRIPTION><![CDATA[<strong>Takovou knihu o historii jste ještě nečetli. Nezmiňuje žádného vládce, žádné náboženství a jen dvě revoluce – tu neolitickou a tu ve čtení DNA. Právě ta druhá nám odpověděla na otázky, které historiky vzrušovaly po staletí: <em>Co z nás dělá lidi? Odkud pocházíme? A jak jsme se stali tím, čím jsme dnes? </em></strong>
 
 Žijeme ve fascinující době rozkvětu nového oboru – archeogenetiky, kdy poznatky ze sekvenování DNA odhalují skutečnost o původu a tehdejším životě Evropanů. Tak třeba: dlouho jsme mohli jen spekulovat o tom, zda spolu mohly mít sex různé typy archaických lidí, ale DNA důkazy tuto debatu vyřešily: moderní lidé měli sex s neandertálci i s denisovany. A neandertálci měli sex i s denisovany. Naši dávní příbuzní byli zjevně velmi otevření novým známostem s jinými typy lidí.
@@ -497,7 +470,6 @@ A nebo se také dozvíte, že našimi spolucestujícími na epické cestě, kter
  </SHOPITEM>
 <SHOPITEM>
  <ITEM_ID>115218</ITEM_ID>
- <PRODUCTNAME>Handmade byznys</PRODUCTNAME>
  <DESCRIPTION><![CDATA[Tvoříte. Vyrábíte. Kutíte. Každou chvíli slyšíte, že byste se tím mohli živit. Jenže jak na to? Jedny podnikatelské kurzy vám tvrdí, že musíte mít byznys plán. Druhé zase, že máte mít na webu “magnet”. A vám to nedává smysl. Tak se v tom plácáte tak nějak po svém.
 
 Pokud jste se v tomto popisu našli, je kniha Handmade byznys přesně pro vás. Provede vás po cestě od rukodělného koníčku k úspěšnému podnikání. Ukáže vám, kde můžete své výrobky prodávat, pomůže nastavit správně ceny, poradí s budováním značky a projde s vámi krajinou marketingu.
