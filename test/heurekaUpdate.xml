@@ -240,19 +240,7 @@
   <CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | Knihy</CATEGORYTEXT>
   <DELIVERY_DATE>0</DELIVERY_DATE>
  </SHOPITEM>
- <SHOPITEM>
-  <ITEM_ID>155108</ITEM_ID>
-  <PRODUCTNAME>Gradient</PRODUCTNAME>
-  <PRODUCT>Gradient</PRODUCT>
-  <URL>https://www.melvil.cz/kniha-Gradient-pae/</URL>
-  <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/05/Gradient_obalka_2D.webp</IMGURL>
-  <PRICE>646.8</PRICE>
-  <PRICE_VAT>646.8</PRICE_VAT>
-  <MANUFACTURER>Jan Melvil Publishing</MANUFACTURER>
-  <CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | Knihy</CATEGORYTEXT>
-  <DELIVERY_DATE>0</DELIVERY_DATE>
- </SHOPITEM>
- <SHOPITEM>
+  <SHOPITEM>
   <ITEM_ID>153162</ITEM_ID>
   <PRODUCTNAME>Autismus bez masky</PRODUCTNAME>
   <PRODUCT>Autismus bez masky</PRODUCT>
