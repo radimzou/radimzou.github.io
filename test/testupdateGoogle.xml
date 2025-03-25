@@ -109,4 +109,18 @@
 	<g:brand>Giovani</g:brand>
 	<g:gtin></g:gtin>
 </entry>
+<entry>
+	<g:id>158/1250</g:id>
+	<title>Sametové mýdlo</title>
+	<description>&lt;p&gt;&lt;span style=&quot;font-size: 14pt; color: #000000;&quot;&gt;&lt;strong&gt;Svěží vůně inspirovaná Dolce Gabbanou - Light Blue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</description>
+	<summary>&lt;p&gt;&lt;span style=&quot;font-size: 14pt; color: #000000;&quot;&gt;&lt;strong&gt;Svěží vůně inspirovaná Dolce Gabbanou - Light Blue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</summary>
+	<g:product_type>Mýdla</g:product_type>
+	<link>https://www.giovani.cz/sametove-mydlo/?variantId=111</link>
+	<g:image_link>https://cdn.myshoptet.com/usr/www.giovani.cz/user/shop/orig/sametove-mydlo.png?66fe7a73</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>429 CZK</g:price>
+	<g:brand>Giovani</g:brand>
+	<g:gtin></g:gtin>
+</entry>
 </feed>
