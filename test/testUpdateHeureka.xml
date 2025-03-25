@@ -265,4 +265,16 @@
   <CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | Knihy</CATEGORYTEXT>
   <DELIVERY_DATE>0</DELIVERY_DATE>
  </SHOPITEM>
+  <SHOPITEM>
+  <ITEM_ID>99999</ITEM_ID>
+  <PRODUCTNAME>Tajemství demokracie</PRODUCTNAME>
+  <PRODUCT>Tajemství demokracie</PRODUCT>
+  <URL>https://www.melvil.cz/kniha-tajemstvi-demokracie/</URL>
+  <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/02/tajemstvi-demokracie-2D.webp</IMGURL>
+  <PRICE>700.2</PRICE>
+  <PRICE_VAT>700.2</PRICE_VAT>
+  <MANUFACTURER>Jan Melvil Publishing</MANUFACTURER>
+  <CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | Knihy</CATEGORYTEXT>
+  <DELIVERY_DATE>0</DELIVERY_DATE>
+ </SHOPITEM>
 </SHOP>
