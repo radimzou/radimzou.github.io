@@ -275,4 +275,16 @@
   <CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | Knihy</CATEGORYTEXT>
   <DELIVERY_DATE></DELIVERY_DATE>
  </SHOPITEM>
+  <SHOPITEM>
+  <ITEM_ID>152578</ITEM_ID>
+  <PRODUCTNAME>Manufaktura</PRODUCTNAME>
+  <PRODUCT>Manufaktura</PRODUCT>
+  <URL>https://www.melvil.cz/manufaktura/</URL>
+  <IMGURL>https://www.melvil.cz/wp-content/uploads/2024/03/manufaktura-2D.webp</IMGURL>
+  <PRICE>500.2</PRICE>
+  <PRICE_VAT>500.2</PRICE_VAT>
+  <MANUFACTURER>Jan Melvil Publishing</MANUFACTURER>
+  <CATEGORYTEXT>Heureka.cz | Filmy, knihy, hry | Knihy</CATEGORYTEXT>
+  <DELIVERY_DATE>blabla</DELIVERY_DATE>
+ </SHOPITEM>
 </SHOP>
