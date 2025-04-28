@@ -32,7 +32,6 @@
 	<g:availability>in stock</g:availability>
 	<g:price>429 CZK</g:price>
 	<g:brand>Giovani</g:brand>
-	<g:condition>new</g:condition>
 	<g:gtin></g:gtin>
 </entry>
 <entry>
@@ -48,7 +47,6 @@
 	<g:price>629 CZK</g:price>
 	<g:gender>female</g:gender>
 	<g:brand>Giovani</g:brand>
-	<g:condition>new</g:condition>
 	<g:gtin></g:gtin>
 </entry>
 <entry>
@@ -61,7 +59,6 @@
 	<g:product_type>Parfémy na praní</g:product_type>
 	<link>https://www.giovani.cz/exclusive-gold/?variantId=55</link>
 	<g:image_link>https://cdn.myshoptet.com/usr/www.giovani.cz/user/shop/orig/46-2_parfem-na-prani-giovani-exclusive-gold-100-ml.png?66fe792d</g:image_link>
-	<g:condition>new</g:condition>
 	<g:availability>in stock</g:availability>
 	<g:price>319 CZK</g:price>
 	<g:gender>unisex</g:gender>
@@ -96,7 +93,6 @@
 	<g:product_type>Parfémy na praní</g:product_type>
 	<link>https://www.giovani.cz/exclusive-gold/?variantId=61</link>
 	<g:image_link>https://cdn.myshoptet.com/usr/www.giovani.cz/user/shop/orig/46-1_luxusni-parfem-do-pracky-giovani-exclusive-gold.png?66fe792d</g:image_link>
-	<g:condition>new</g:condition>
 	<g:availability>in stock</g:availability>
 	<g:price>729 CZK</g:price>
 	<g:brand>Giovani</g:brand>
@@ -125,7 +121,6 @@
 	<g:product_type>Parfémy na praní</g:product_type>
 	<link>https://www.giovani.cz/grey-dolce/?variantId=67</link>
 	<g:image_link>https://cdn.myshoptet.com/usr/www.giovani.cz/user/shop/orig/49-1_parfum-na-prani-giovani-grey-dolce-250-ml.png?66fe7a73</g:image_link>
-	<g:condition>new</g:condition>
 	<g:availability>in stock</g:availability>
 	<g:price>429 CZK</g:price>
 	<g:gender>male</g:gender>
@@ -156,7 +151,6 @@
 	<g:product_type>Parfémy na praní</g:product_type>
 	<link>https://www.giovani.cz/luxury-black/?variantId=73</link>
 	<g:image_link>https://cdn.myshoptet.com/usr/www.giovani.cz/user/shop/orig/52-2_parfem-na-prani-giovani-luxury-black-100-ml.png?66fe7b34</g:image_link>
-	<g:condition>new</g:condition>
 	<g:availability>in stock</g:availability>
 	<g:price>219 CZK</g:price>
 	<g:gender>female</g:gender>
